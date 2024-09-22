@@ -10,10 +10,11 @@ Model Development: Experiment with various machine learning algorithms (e.g., De
 Model Evaluation: Assess model performance using metrics such as accuracy, precision, recall, and F1-score, along with techniques like cross-validation.
 Deployment: Create a user-friendly interface for stakeholders to input incident data and receive classification predictions.
 Methodology
+
 Data Collection:
 
 Sources: Internal incident reports, security logs, and external databases.
-Tools: Web scraping, APIs, and direct database queries.
+
 Data Preprocessing:
 
 Handle missing data using imputation techniques.
@@ -24,7 +25,7 @@ Derive features like incident frequency, average resolution time, and common att
 Utilize domain knowledge to enhance feature selection.
 Model Development:
 
-Split the dataset into training and testing sets (e.g., 80/20 split).
+Split the dataset into training and testing sets.
 Implement various algorithms and tune hyperparameters using techniques like grid search.
 Model Evaluation:
 
